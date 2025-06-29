@@ -1,7 +1,7 @@
 // import styles from "./Hero.module.css";
 import { useEffect, useState } from "react";
 import styled from "styled-components";
-import Button from "../UI/Button/Index.jsx";
+import Button from "../ui/button";
 import axios from "axios";
 
 const StyledHero = styled.div`
