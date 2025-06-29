@@ -4,7 +4,7 @@ import { Route, Routes } from "react-router-dom"; //install dulu react router do
 import NowPlaying from "./pages/NowPlaying";
 import Popular from "./pages/Popular";
 import TopRated from "./pages/TopRated";
-import Layout from "./Layout/Index";
+import Layout from "./Layout/index";
 import DetailMovie from "./pages/Detail";
 import { useState } from "react";
 import data from "./utils/constans/data";
