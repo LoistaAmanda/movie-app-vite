@@ -1,5 +1,5 @@
 import styled, { css } from "styled-components";
-import { theme } from "../Button/theme.jsx";
+import { theme } from "./theme.jsx";
 
 const colors = {
   primary: "#4361ee",
