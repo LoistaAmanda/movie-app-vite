@@ -1,5 +1,5 @@
 import CreateMovie from "./pages/Create";
-import Home from "./pages/Home";
+import Home from "./pages/home";
 import { Route, Routes } from "react-router-dom"; //install dulu react router dom di terminal
 import NowPlaying from "./pages/NowPlaying";
 import Popular from "./pages/Popular";
