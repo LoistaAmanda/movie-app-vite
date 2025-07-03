@@ -1,11 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import axios from "axios";
-<<<<<<< HEAD
 import Button from "../components/UI/Button/index";
-=======
-import Button from "../components/ui/button";
->>>>>>> 7660068 (upload project movie-app)
 
 
 function DetailMovie() {
