@@ -1,5 +1,5 @@
 import styles from "./Movies.module.css";
-import Movie from "./movie/movie.jsx";
+import Movie from "../movie/movie.jsx":
 // import data from "../../utils/constants/data.js";
 // import { useState } from "react";
 import AddMovie from "../addMovie/AddMovie.jsx";
